@@ -110,7 +110,7 @@
 
 ** TODO Life
 
-* 2017-9-15 [%]
+* 2017-9-15 [33%]
 
 ** TODO Study
 
@@ -118,7 +118,7 @@
 
 *** TODO 异常流量注入背景流量
 
-*** TODO Wireshark 分析
+*** DONE Wireshark 分析
 
 *** TODO 编写程序提取字段
 
@@ -128,9 +128,9 @@
 
 *** TODO C++ 模板 
 
-** TODO Life
+** DONE Life
 
-*** TODO Git复习
+*** DONE Git复习
 
 * 2017-9-16 [%]
 
