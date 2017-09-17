@@ -110,10 +110,10 @@
 
 ** TODO Life
 
-* 2017-9-15 [33%]
+* 2017-9-15 [100%]
 
 
-** TODO Study
+** DONE Study
 
 *** TODO 下载CAIDA Security数据集
 
@@ -123,11 +123,11 @@
 
 *** DONE 编写程序提取字段
 
-** TODO Work
+** DONE Work
 
-*** TODO Latex 数学公式
+*** DONE Latex 数学公式
 
-*** TODO C++ 模板 
+*** DONE C++ 模板 
 
 *** DONE Git分支 学习
 
@@ -137,25 +137,30 @@
 
 *** DONE Git复习
 
-* 2017-9-16 [%]
+* 2017-9-16 [100%]
 
-** TODO Study
+** DONE Study
 
 *** DONE 流量字段提取
 
-** TODO Work
+** DONE Work
 
 *** DONE Qt5 第3章
 
-** TODO Life
+** DONE Life
 
-* 2017-9-17 [%]
+* 2017-9-17 [100%]
 
-** TODO Study
+** DONE Study
 
-** TODO Work
+*** DONE 对提取的字段分类统计，计算熵，计算哈希值，比较汉明距离
 
-** TODO Life
+** DONE Work
+
+*** DONE git ignore学习
+    CLOCK: [2017-09-17 周日 07:07]--[2017-09-17 周日 07:39] =>  0:32
+
+** DONE Life
 
 * 2017-9-18 [%]
 
