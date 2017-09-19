@@ -162,15 +162,15 @@
 
 ** DONE Life
 
-* 2017-9-18 [%]
+* 2017-9-18 [33%]
 
-** TODO Study
+** DONE Study
 
-*** TODO 阅读背景流量的描述
+*** DONE 阅读背景流量的描述
 
 由WIDE研究小组发起，日本学术和研究机构合作的MAWI项目在日本骨干网架设了多个被动测量点，重点测量IPv6、DNS和BGP信息，并提供部分数据的共享。
 
-*** TODO Experiment
+*** DONE Experiment
 
 以背景流量为测试数据，调整参数，使得汉明距离趋于稳定。
 
@@ -178,7 +178,7 @@
 
 取消此计划。不使用CAIDA数据集。
 
-*** TODO DARPA数据集
+*** DONE DARPA数据集
 
 ** TODO Work
 
@@ -189,6 +189,12 @@
 * 2017-9-19 [%]
 
 ** TODO Study
+
+*** TODO 了解DARPA数据集
+
+*** TODO 数据预处理
+
+过滤非网络连接
 
 ** TODO Work
 
