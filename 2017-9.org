@@ -186,23 +186,27 @@
 
 ** TODO Life
 
-* 2017-9-19 [%]
+* 2017-9-19 [100%]
+
+** DONE Study
+
+*** DONE 了解DARPA数据集
+
+*** DONE 数据预处理
+
+过滤非网络连接
+
+** DONE Work
+
+** DONE Life
+
+* 2017-9-20 [%]
 
 ** TODO Study
 
 *** TODO 了解DARPA数据集
 
-*** TODO 数据预处理
-
-过滤非网络连接
-
-** TODO Work
-
-** TODO Life
-
-* 2017-9-20 [%]
-
-** TODO Study
+*** TODO 下载DOS攻击的数据集，测试实验效果
 
 ** TODO Work
 
