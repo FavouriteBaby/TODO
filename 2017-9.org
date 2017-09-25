@@ -242,7 +242,7 @@
 
 ** TODO Study
 
-*** TODO DARPA攻击相关的翻译
+*** DONE DARPA攻击相关的翻译
 
 ** DONE Work
 
