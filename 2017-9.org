@@ -238,9 +238,9 @@
 
 ** TODO Life
 
-* 2017-9-24 [66%]
+* 2017-9-24 [100%]
 
-** TODO Study
+** DONE Study
 
 *** DONE DARPA攻击相关的翻译
 
