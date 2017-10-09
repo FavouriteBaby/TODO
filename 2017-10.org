@@ -66,8 +66,9 @@
 
 ** TODO Study
 
-*** TODO 下载所有数据集
-*** TODO 寻找Week4特征
+*** DONE 下载所有数据集
+*** DONE 寻找Week5 Monday攻击
+    CLOCK: [2017-10-09 周一 10:04]--[2017-10-09 周一 16:21] =>  6:17
 
 ** TODO Work
 
